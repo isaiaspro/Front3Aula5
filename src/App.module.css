@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+     display: flex;
+     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+
+}
+
+
+
+
+.cardSection{
+display: flex;
+flex-direction: row;
+gap: 15px;
+flex-wrap: wrap;
+width: 950px;
+height: 100vh;
+justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+
+}
+
+.cardSectionTitle{
+    font-size: 20px;
+    padding: 15px;
+}
+
+.cardContainer{
+    width: 950px;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+
+
+
+
+
+
+

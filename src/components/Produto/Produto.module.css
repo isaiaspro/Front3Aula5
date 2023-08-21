@@ -1,0 +1,30 @@
+.cardUserImage{
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: contain;
+    
+    }
+
+
+    .title{
+        padding: 5px;
+
+    }
+
+
+        li{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            list-style: none;
+            width: 300px;
+            height: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    
+
+  
